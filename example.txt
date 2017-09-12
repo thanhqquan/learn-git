@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Text...
+=======
+test
+>>>>>>> 7d1e27e34e8c84957cb54c8a5b1b13d035ff2a8d
